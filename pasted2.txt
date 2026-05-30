@@ -1,0 +1,11 @@
+  <h2>Subjects</h2>
+
+  <ul>
+
+    <li>Fin — movement patterns, feeding behavior, resting zones</li>
+
+    <li>Stripes — structural-area exploration</li>
+
+    <li>Orry — glass and vertical movement behavior</li>
+
+  </ul>
